@@ -1,5 +1,29 @@
 # Change Log
 
+## v2.0.3 (2021-01-20)
+
+#### :bug: Bug Fix
+* [#4145](https://github.com/Semantic-Org/Semantic-UI-React/pull/4145) fix(Sidebar): fix a collision between `children` and shorthand props ([@layershifter](https://github.com/layershifter))
+* [#4112](https://github.com/Semantic-Org/Semantic-UI-React/pull/4112) fix(Feed|CardGroup|ItemGroup|Search): change key checks from falsy to nullish semantics ([@noinkling](https://github.com/noinkling))
+* [#4144](https://github.com/Semantic-Org/Semantic-UI-React/pull/4144) fix(Sidebar): fix issue with Portals in React 17 ([@layershifter](https://github.com/layershifter))
+
+## v2.0.2 (2021-01-13)
+
+#### :bug: Bug Fix
+* [#4116](https://github.com/Semantic-Org/Semantic-UI-React/pull/4116) fix(Image): pass `loading` attribute to an `img` element ([@noinkling](https://github.com/noinkling))
+
+#### :memo: Documentation
+* [#4097](https://github.com/Semantic-Org/Semantic-UI-React/pull/4097) docs(Table): fix sort issue in TableExampleSortable ([@Mental1993](https://github.com/Mental1993))
+
+#### :house: Internal
+* [#4138](https://github.com/Semantic-Org/Semantic-UI-React/pull/4138) chore: bump dependencies to allow React 17 in peerDependencies ([@layershifter](https://github.com/layershifter))
+* [#4031](https://github.com/Semantic-Org/Semantic-UI-React/pull/4031) chore: support React 17 ([@layershifter](https://github.com/layershifter))
+
+#### Committers: 3
+- Malcolm ([@noinkling](https://github.com/noinkling))
+- Oleksandr Fediashov ([@layershifter](https://github.com/layershifter))
+- Pechlivanis Dimitrios ([@Mental1993](https://github.com/Mental1993))
+
 ## [v2.0.1](https://github.com/Semantic-Org/Semantic-UI-React/tree/v2.0.1) (2020-10-26)
 
 #### :bug: Bug Fix
